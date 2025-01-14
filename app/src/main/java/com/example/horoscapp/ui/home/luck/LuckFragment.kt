@@ -8,9 +8,12 @@ import android.view.ViewGroup
 import com.example.horoscapp.R
 import com.example.horoscapp.databinding.FragmentHorsocopeBinding
 import com.example.horoscapp.databinding.FragmentLuckBinding
+import dagger.hilt.android.AndroidEntryPoint
 
-
+@AndroidEntryPoint
 class LuckFragment : Fragment() {
+
+    private val luckViewModel
 
     private var _binding: FragmentLuckBinding? = null
     private val binding get() = _binding!!
