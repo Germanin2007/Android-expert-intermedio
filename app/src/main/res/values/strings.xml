@@ -3,5 +3,16 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="horoscope">horoscope</string>
     <string name="palmistry">palmistry</string>
-    <string name="luck">luck</string>
+    <string name="aries">aries</string>
+    <string name="taurus">taurus</string>
+    <string name="gemini">gemini</string>
+    <string name="cancer">cancer</string>
+    <string name="leo">leo</string>
+    <string name="virgo">virgo</string>
+    <string name="libra">libra</string>
+    <string name="scorpio">scorpio</string>
+    <string name="sagittarius">sagittarius</string>
+    <string name="capricorn">capricorn</string>
+    <string name="aquarius">aquarius</string>
+    <string name="piscis">piscis</string>
 </resources>
